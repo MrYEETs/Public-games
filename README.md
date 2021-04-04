@@ -1,3 +1,5 @@
 # Public-games
 
-This one of my public games and i saw some tutorials i will keep uploading more files
+This repo contains all the finshed projects
+
+No unfinshed projects will be uploaded in this repo 
